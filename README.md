@@ -1,7 +1,7 @@
 # I'll Get Back to You: Task, Await, and Asynchronous Methods in C#
 There's a lot of confusion about async/await, Task/TPL, and asynchronous and parallel programming in general. So let's start with the basics and look at how we can consume asynchronous methods using Task and then see how the "await" operator can makes things easier for us. Along the way, we’ll look at continuations, cancellation, and exception handling.  
 
-Code samples and slides are included in this repository.
+Code samples (.NET 6) and slides are included in this repository.
 
 Articles and additional resources: [http://www.jeremybytes.com/Demos.aspx#TaskAndAwait](http://www.jeremybytes.com/Demos.aspx#TaskAndAwait)  
 
