@@ -9,6 +9,10 @@ Articles and additional resources: [http://www.jeremybytes.com/Demos.aspx#TaskAn
 * [NDC London - Jan 2016](https://vimeo.com/157300741)  
 * [Central California .NET - Apr 2016](https://www.youtube.com/watch?v=B2HDDKq4d3c) (extended version)  
 
+**Additional Materials**  
+* [Understanding Asynchronous Programming in C#](https://github.com/jeremybytes/async-workshop-2022)  
+(Workshop with additional slides and labs)
+
 **Articles**  
 * [Task and Await: Consuming Awaitable Methods](http://jeremybytes.blogspot.com/2014/12/task-and-await-consuming-awaitable.html)  
 * [UI Considerations When Using Asynchronous Methods](http://jeremybytes.blogspot.com/2014/12/ui-considerations-when-using.html)  
